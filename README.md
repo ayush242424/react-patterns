@@ -5,3 +5,5 @@
 2. Controlled input - It's hard to talk about controlled inputs in the abstract. Let's start with an uncontrolled (normal) input and go from there.
 
 3. Higher-order component - A higher-order function is a function that takes and/or returns a function. It's not more complicated than that. So, what's a higher-order component?
+
+4.Container component - "A container does data fetching and then renders its corresponding sub-component. That’s it."—Jason Bonta. Given this reusable CommentList component.
